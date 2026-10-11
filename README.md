@@ -3,7 +3,7 @@
 Author: Santosh Bhandari
 
 ## Project Overview
-End-to-end analytics project on the Brazilian E-Commerce dataset by Olist (about 100k orders, 2016 to 2018). The project covers data merging, cleaning, feature engineering, SQL analysis, a machine learning model to predict late deliveries, and an interactive Power BI dashboard.
+End-to-end analytics project on the Brazilian E-Commerce dataset by Olist (about 100k orders, 2016 to 2018). The project covers data merging, cleaning, feature engineering, SQL analysis, a machine learning model to predict late deliveries, and an interactive Power BI Dashboard 
 
 ## Dataset
 Source: [Brazilian E-Commerce Public Dataset by Olist (Kaggle)](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
